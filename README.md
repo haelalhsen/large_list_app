@@ -1,5 +1,4 @@
 
-```markdown
 # Countdown Timer App
 
 ## Overview
